@@ -1,7 +1,8 @@
+# NLW Return
+![preview](./.github/preview.png)
+> Trilha Return 
 
-> Violência Doméstica 
-
-Projeto construído para apresentação na Junta Comercial do RS, cumprimento a atividade de extensão da faculdade Centro Universitário Leonardo da Vinci.
+Projeto construído do evento Next Level Week da Rocketseat
 
  [Clique aqui para acessar](https://brianluca99.github.io/BL-Drinks/)
 

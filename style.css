@@ -156,6 +156,7 @@ body {
 
 
 
+
 /*====  LOGO ============================ */
 .logo {
   font: 700 1.31rem var(--title-font);
@@ -188,10 +189,6 @@ nav ul li a {
   position: relative;
 }
 
-nav ul li a:hover, 
-nav ul li a.active {
-  color: var(--base-color);
-}
 
 nav ul li a::after {
   content: '';
@@ -210,6 +207,11 @@ nav ul li a::after {
 nav ul li a:hover::after,
 nav ul li a.active::after {
   width: 100%;
+}
+
+nav ul li a:hover, 
+nav ul li a.active {
+  color:  rgb(0, 0, 0);
 }
 
 nav .menu {
@@ -298,7 +300,6 @@ nav.show div.icon-close {
 
 #home .image img {
   position: relative;
-  right: 2.93rem;
 }
 
 #home .image img,
@@ -345,7 +346,6 @@ nav.show div.icon-close {
 
 #about .image img {
   position: relative;
-  right: 2.93rem;
 }
 
 #about .image img,
@@ -670,7 +670,7 @@ a i .icon-arrow-up {
   
   footer .logo {
     font-size: 2.25rem;
-  }
+  } }
 
   /* large devices 1023 > */
 
@@ -679,6 +679,27 @@ a i .icon-arrow-up {
   :root {
     --title-font-size: 2.25rem;
     --subtitle-font-size: 1.125rem;
-  }
+  } }
+
+  nav ul li a:hover, 
+nav ul li a.active {
+  color:  var(--base-color);
 }
+
 /* medium large devices 767 > */
+@media (min-width: 867px) {
+
+.container {
+  max-width: 897px;
+  margin-left: auto;
+  margin-right: auto;
+
+  
+} 
+
+nav ul li a:hover, 
+nav ul li a.active {
+  color:  rgb(0, 0, 0);
+}
+
+ }
