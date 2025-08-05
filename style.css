@@ -26,7 +26,7 @@ img {
   --hue: 695;
   /* HSL color mode */
   --base-color: rgb(152, 10, 196);
-  --base-color-second: rgb(233, 185, 245) 65% 87%;
+  --base-color-second: rgb(231, 184, 243) 65% 87%;
   --base-color-alt: rgb(212, 70, 255);
   --title-color: hsl(var(--hue) 41% 10%);
   --text-color: hsl(0 0% 46%);
@@ -331,11 +331,12 @@ nav.show div.icon-close {
 
 #about .image {
   position: relative;
+  right: 2.93rem;
 }
 
 #about .image::before {
   content: '';
-  height: 100%;
+  height: 70%;
   width: 100%;
   background: var(--base-color-second);
   position: absolute;
@@ -346,6 +347,8 @@ nav.show div.icon-close {
 
 #about .image img {
   position: relative;
+  right: 2.93rem;
+  width: 100%;
 }
 
 #about .image img,
@@ -701,5 +704,11 @@ nav ul li a:hover,
 nav ul li a.active {
   color:  rgb(0, 0, 0);
 }
+#home .image img {
+  position: relative;
+  right: 2.93rem;
+
+}
+
 
  }
