@@ -331,7 +331,6 @@ nav.show div.icon-close {
 
 #about .image {
   position: relative;
-  right: 2.93rem;
 }
 
 #about .image::before {
@@ -347,8 +346,7 @@ nav.show div.icon-close {
 
 #about .image img {
   position: relative;
-  right: 2.93rem;
-  width: 100%;
+  width: 90%;
 }
 
 #about .image img,
