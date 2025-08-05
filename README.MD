@@ -1,5 +1,5 @@
 # NLW Return
-![preview](./.github/preview.png)
+![C:\Users\brian-luca\Downloads\Captura de tela 2025-08-05 153212.png](./.github/preview.png)
 > Violência Doméstica 
 
 Projeto construído para apresentação na Junta Comercial do RS, cumprimento a atividade de extensão da faculdade Centro Universitário Leonardo da Vinci.
