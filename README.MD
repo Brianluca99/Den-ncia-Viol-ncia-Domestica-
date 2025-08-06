@@ -1,5 +1,5 @@
 # Denúncia Violência doméstica
-![preview] <img src="C:\Users\brian-luca\Desktop\BL-Drinks-master\assets\fotos\Captura de tela 2025-08-06 122033.png" alt="Texto Alternativo">
+![preview](./.github/preview.png)
 
 Projeto construído da da atividade de extensão da Uniasselvi referente ao "Desenvolvimento de sites ou aplicativos sobre violência doméstica"
 
@@ -14,6 +14,6 @@ Projeto construído da da atividade de extensão da Uniasselvi referente ao "Des
 # Contato 
 brianluca2017@gmail.com 
 
-#Linkedin
+# Linkedin
 https://www.linkedin.com/in/brian-luca-a5b78517a/
 
