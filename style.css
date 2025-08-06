@@ -758,15 +758,16 @@ nav ul li a::after {
 
 #about .image img {
   position: relative;
+  left: -5rem;
   right: 2.93rem;
-  width: 102%;
+  width: 120%;
   height: 100%;;
 }
 
 
 
 #about .image::before {
-  width: 110%;
+  width: 120%;
   }
 
 
