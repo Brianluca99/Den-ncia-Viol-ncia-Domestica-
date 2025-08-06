@@ -1,5 +1,5 @@
 # Denúncia Violência doméstica
-![preview](./.github/preview.png)
+![preview](./.github/previeww.png)
 
 Projeto construído da da atividade de extensão da Uniasselvi referente ao "Desenvolvimento de sites ou aplicativos sobre violência doméstica"
 
